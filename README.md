@@ -7,8 +7,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MreegendraNarayan&label=Profile%20views&color=0e75b6&style=flat" alt="MreegendraNarayan" /> </p>
 
 ## 👨‍💻  &nbsp;About Me 
-- 🐍♨️ I'm learning **Frontend Developer** & **Data Science**
-- 🌱 Regularly practicing **Data Structure and Algorithm**
+- 🐍♨️ I'm learning **Frontend Development** & **Data Science**
+- 🌱 Regularly practicing **Data Structure and Algorithm** on various platforms
+- ⚡ Learning tech stacks through projects rooted in my personal interests.
 - 📫 Feel free to contact me : **mreegendra2003211@gmail.com**
   <!--
      - ⚡ Fun fact **I am Singer and Writer**
