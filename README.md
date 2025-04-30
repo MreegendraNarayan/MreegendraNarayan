@@ -91,17 +91,16 @@
   <img height="180em" width = "340em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MreegendraNarayan&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
+<!--
 ## 🔥 Streak Stats
-
-<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+ GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats 
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mreegendra's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MreegendraNarayan&theme=monokai-metallian&hide_border=true"/>
   </a>
   <p align="center"> If you can dream it, you can do it🔥 </p>
 </p>
-
+-->
 ## 🙋‍♀️ Let's Connect
 
 <p align="center">
