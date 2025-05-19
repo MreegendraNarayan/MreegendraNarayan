@@ -3,9 +3,9 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Learning+Front+End+Web+Development;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
-<!--
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MreegendraNarayan&label=Profile%20views&color=0e75b6&style=flat" alt="MreegendraNarayan" /> </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MreegendraNarayan&label=Profile%20views&color=0e75b6&style=flat" alt="MreegendraNarayan" /> </p>
+<!--
 ## 👨‍💻  &nbsp;About Me 
 - 🐍♨️ I'm learning **Frontend Development** & **Data Science**
 - 🌱 Regularly practicing **Data Structure and Algorithm** on various platforms
