@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Learning+Front+End+Web+Development;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
-
+<!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MreegendraNarayan&label=Profile%20views&color=0e75b6&style=flat" alt="MreegendraNarayan" /> </p>
 
 ## 👨‍💻  &nbsp;About Me 
@@ -11,13 +11,13 @@
 - 🌱 Regularly practicing **Data Structure and Algorithm** on various platforms
 - ⚡ Learning tech stacks through projects rooted in my personal interests.
 - 📫 Feel free to contact me : **mreegendra2003211@gmail.com**
-  <!--
+
      - ⚡ Fun fact **I am Singer and Writer**
     - 💻 **5⭐** on **HackerRank** in **Python, Java & SQL**
     - 👨‍💻 **1⭐** on **CodeChef**
-   -->
+
   
-<!--
+
 ## 📂 My Latest Projects
 
 ### 1️⃣ **JobGeniusAI - AI Career Coach**  
@@ -33,7 +33,7 @@
 
 - **Tech Stack:** React.js, Vite, Tailwind CSS, Shadcn, Supabase, API  
 - **Live Demo:** [ShrinkURLs](https://shrinkurls.vercel.app/)  
--->
+
 
  ## 💻 &nbsp;My Coding Profiles
 
@@ -91,7 +91,7 @@
   <img height="180em" width = "340em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MreegendraNarayan&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-<!--
+
 ## 🔥 Streak Stats
  GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats 
 <p align="center">
@@ -100,16 +100,17 @@
   </a>
   <p align="center"> If you can dream it, you can do it🔥 </p>
 </p>
--->
+
 
 ## 🙋‍♀️ Let's Connect
 
 <p align="center">
-  <!--
+
 	<a href="https://devgoyal.netlify.app/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portfolio"/></a>
-  -->
+
 	<a href="https://github.com/MreegendraNarayan" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/mreegendra-narayan/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.instagram.com/mreegendra_narayan/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 	<a href="mailto:mreegendra2003211@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 </p>
+-->
