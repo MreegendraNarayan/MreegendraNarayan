@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, this is me</h1>  
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Learning+Front+End+Web+Development;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Learning+Full Stack+Web+Development;DS%20|%20AI%20|%20ML%20Enthusiast;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MreegendraNarayan&label=Profile%20views&color=0e75b6&style=flat" alt="MreegendraNarayan" /> </p>
