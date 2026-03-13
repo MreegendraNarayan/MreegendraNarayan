@@ -10,5 +10,4 @@ Welcome to my GitHub profile! I'm a passionate developer crafting awesome code w
   <img alt="MreegendraNarayan's GitHub Profile" src="https://raw.githubusercontent.com/MreegendraNarayan/MreegendraNarayan/main/light_mode.svg">
 </picture>Hey, Cortana. 
 <!-- 
-*This profile is auto-updated daily with live GitHub statistics! 🚀* -->
-Hey, Cortana.
+
