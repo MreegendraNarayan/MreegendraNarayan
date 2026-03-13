@@ -1,18 +1,52 @@
 
-<!--
+# Hi there! 👋 I'm MreegendraNarayan
 
-## Hi there 👋
+Welcome to my GitHub profile! I'm a passionate developer crafting awesome code with Python, JavaScript, Java, and C++.
 
-**MreegendraNarayan/MreegendraNarayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 My GitHub Profile Stats
 
-Here are some ideas to get you started:
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MreegendraNarayan/MreegendraNarayan/main/dark_mode.svg">
+  <img alt="MreegendraNarayan's GitHub Profile" src="https://raw.githubusercontent.com/MreegendraNarayan/MreegendraNarayan/main/light_mode.svg">
+</picture>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*This profile is auto-updated daily with live GitHub statistics! 🚀*
+
+## 🎯 About Me
+
+- 🎂 **Birthday:** February 11, 2003
+- 📍 **Location:** India
+- 💻 **Tech Interests:** Web Development, Automation, Programming
+- 🛠️ **Tools:** VS Code, IntelliJ IDEA
+- 🎮 **Hobbies:** Coding, Learning, Building Cool Projects
+
+## 🧠 Languages & Technologies
+
+**Programming Languages:**
+- Python 🐍
+- JavaScript/TypeScript
+- Java ☕
+- C++
+
+**Web:**
+- HTML, CSS, JSON, YAML
+
+## 🚀 Quick Links
+
+- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+- 🔗 LinkedIn: [Your Profile](https://linkedin.com)
+- 🐙 GitHub: [@MreegendraNarayan](https://github.com/MreegendraNarayan)
+
+## 📈 Auto-Updating Profile
+
+This profile is automatically updated daily using a custom GitHub Actions workflow that:
+- Fetches live GitHub statistics via GitHub API
+- Calculates age and time since birth
+- Counts commits, repositories, stars, and lines of code
+- Updates beautiful SVG profile cards
+
+The automation runs at **midnight UTC** every day. Check out the profile generator to see how it works!
+
+---
+
+**Last Updated:** Auto-generated daily ⏰
