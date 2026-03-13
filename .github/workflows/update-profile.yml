@@ -26,7 +26,7 @@ jobs:
 
       - name: Generate profile SVGs
         env:
-          ACCESS_TOKEN: ${{ secrets.GITHUB_TOKEN_SECRET }}
+          ACCESS_TOKEN: ${{ secrets.GH_TOKEN }}
           USER_NAME: MreegendraNarayan
         run: python generate_profile.py
 
