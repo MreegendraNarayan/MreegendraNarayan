@@ -36,7 +36,7 @@ text, tspan {white-space: pre;}
 <tspan x="390" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">VS Code, IntelliJ IDEA</tspan>
 <tspan x="390" y="150" class="cc">. </tspan>
 <tspan x="390" y="170" class="cc">. </tspan><tspan class="key">Interests</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">Programming, Web Dev, Automation</tspan>
-<tspan x="390" y="190" class="cc">. </tspan><tspan class="key">Languages</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">Python, JavaScript, Java, C++</tspan>
+<tspan x="390" y="190" class="cc">. </tspan><tspan class="key">Languages</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">Python, JavaScript, Java, R</tspan>
 <tspan x="390" y="210" class="cc">. </tspan>
 <tspan x="390" y="250">- GitHub Stats</tspan> -—————————————————————————————————————————-—-
 <tspan x="390" y="270" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc" id="repo_data_dots"> .... </tspan><tspan class="value" id="repo_data">12</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value" id="contrib_data">12</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc" id="star_data_dots"> ............. </tspan><tspan class="value" id="star_data">1</tspan>
