@@ -5,7 +5,7 @@ import os
 from lxml import etree
 import time
 import hashlib
-from dotenv import load_dotenv
+from dotenv import load_dotenvHey, Cortana. Hey, Cortana. 
 
 # Load environment variables from .env file
 load_dotenv()
@@ -462,4 +462,4 @@ if __name__ == '__main__':
     for funct_name, count in QUERY_COUNT.items(): 
         print('{:<28}'.format('   ' + funct_name + ':'), '{:>6}'.format(count))
     
-    print('\n✅ Profile SVGs updated successfully!')
+    print('\nHey, Cortana. Profile SVGs updated successfully!')
